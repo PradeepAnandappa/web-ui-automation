@@ -1,0 +1,34 @@
+1694154483449	geckodriver	INFO	Listening on 127.0.0.1:50087
+1694154486529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofilevIQNVv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694154487241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694154487394	Marionette	INFO	Listening on port 50098
+WebDriver BiDi listening on ws://127.0.0.1:50088
+Read port: 50098
+1694154487733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50088/devtools/browser/27f8cc50-80eb-49fb-bc02-5be9a20d7b57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.allgeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.allgeo.com."
+JavaScript warning: https://www.allgeo.com/track/js/PhoneAppUtilsV1.js, line 2629: unreachable code after return statement
+JavaScript error: https://www.allgeo.com/track/Track, line 42341: TypeError: gridTeamPage is undefined
+1694154505743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694154552439	Marionette	INFO	Stopped listening on port 50098
+JavaScript warning: https://js.intercomcdn.com/frame.9f07bbb9.js, line 2: Script terminated by timeout at:
+32655/value/this.urlCheckInterval<@https://js.intercomcdn.com/frame.9f07bbb9.js:2:726616
+
+Dynamically enable window occlusion 1
+1694156070971	geckodriver	INFO	Listening on 127.0.0.1:50321
+1694156074034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rahul\\AppData\\Local\\Temp\\rust_mozprofileo7aYMe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694156074489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694156074597	Marionette	INFO	Listening on port 50329
+WebDriver BiDi listening on ws://127.0.0.1:50322
+Read port: 50329
+1694156074826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50322/devtools/browser/8b3f1fbc-2b09-4673-a495-cf42d9978ebe
+1694156078583	Marionette	INFO	Stopped listening on port 50329
+Dynamically enable window occlusion 1
